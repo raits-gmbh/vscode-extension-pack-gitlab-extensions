@@ -1,0 +1,32 @@
+{
+    "author": {
+        "name": "René André IT-Services GmbH",
+        "email": "info@raits.gmbh",
+        "url": "https://raits.gmbh/"
+    },
+    "publisher": "raits",
+    "repository": {
+        "url": "https://github.com/raits-gmbh/vscode-extension-pack-angular-development"
+    },
+    "license": "MIT",
+    "name": "gitlab-extensions",
+    "displayName": "gitlab-extensions",
+    "description": "Extensions related to gitlab",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+      "raits"
+    ],
+    "extensionPack": [ 
+        "gitlab.gitlab-workflow",
+        "acid-srvnn.acid-gitlab-mr",
+        "logerfo.gitlab-notifications",
+        "balazs4.gitlab-pipeline-monitor",
+        "jyee721.gitlab-snippets"
+    ]
+}
