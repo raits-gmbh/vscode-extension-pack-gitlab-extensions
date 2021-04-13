@@ -6,7 +6,7 @@
     },
     "publisher": "raits",
     "repository": {
-        "url": "https://github.com/raits-gmbh/vscode-extension-pack-angular-development"
+        "url": "https://github.com/raits-gmbh/vscode-extension-pack-gitlab-extensions"
     },
     "license": "MIT",
     "name": "gitlab-extensions",
