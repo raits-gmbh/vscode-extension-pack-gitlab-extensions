@@ -10,8 +10,8 @@
     },
     "license": "MIT",
     "name": "gitlab-extensions",
-    "displayName": "GitLab Extensions Pack",
-    "description": "Extensions related to gitlab",
+    "displayName": "GitXXX Extensions Pack",
+    "description": "Extensions related to gitxxx",
     "version": "0.0.2",
     "engines": {
         "vscode": "^1.55.0"
