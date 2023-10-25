@@ -11,8 +11,8 @@
     "license": "MIT",
     "name": "gitlab-extensions",
     "displayName": "GitXXX Extensions Pack",
-    "description": "Extensions related to GitXXX",
-    "version": "0.0.3",
+    "description": "Extensions related to GitXXX <real product name removed by request>",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.55.0"
     },
@@ -20,7 +20,11 @@
         "Extension Packs"
     ],
     "keywords": [
-      "raits"
+      "raits",
+      "gitlab",
+      "notifications",
+      "snippets",
+      "workflow"
     ],
     "extensionPack": [ 
         "gitlab.gitlab-workflow",
